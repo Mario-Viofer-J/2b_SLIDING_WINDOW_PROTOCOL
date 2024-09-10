@@ -2,6 +2,7 @@
 ### NAME : MARIO VIOFER J
 ### REGISTER NO : 212223100032
 ## AIM
+To write a python program for Implementation of sliding Window Protocol.
 ## ALGORITHM:
 1. Start the program.
 2. Get the frame size from the user
